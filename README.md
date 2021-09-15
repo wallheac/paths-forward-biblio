@@ -1,4 +1,4 @@
-###Diversity: Frameworks and Concepts
+### Diversity: Frameworks and Concepts
 
 Sarah Ahmed, _On Being Included: Racism and Diversity in Institutional Life_. Duke University Press, 2012.
 
@@ -6,7 +6,7 @@ Herman Gray. "Subject(ed) to Recognition." _American Quarterly_. 65(4), December
 
 Christina Dunbar-Hester. _Hacking Diversity: The Politics of Inclusion in Open Technology Cultures_. Princeton University Press, 2019.
 
-###Diversity Initiatives
+### Diversity Initiatives
 
 Sharla Alegria. "Escalator or Step Stool?: Gendered Labor and Token Processes in Tech Work." _Gender & Society_. 33 no 5, October 2019, 722-745.
 
@@ -43,7 +43,7 @@ change without an agent
 
 Asia McCleary-Gaddy. "Be Explicit: Defining the Difference Between the Office of Diversity & Inclusion and the Office of Diversity & Equity." _Medical Teacher_, 41 no. 12, 2019. 1443-1444, DOI: 10.1080/0142159X.2019.1597261 
 
-###Open Source
+### Open Source
 
 On liberalism and meritocracy:
 https://newrepublic.com/article/160665/tyranny-merit-common-good-book-review-meritocracy-trial 
@@ -59,7 +59,7 @@ Christopher Kelty, “There is no free software.” _Journal of Peer Production 
 
 Parastou Tourani, Bram Adams, Alexander Serebrenik, "Code of conduct in open source projects," _2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering_ (SANER), 2017, pp. 24-33, doi: 10.1109/SANER.2017.7884606.
 
-###Women in OSS and Software more Generally
+### Women in OSS and Software more Generally
 Lauren Alfrey, France Winddance Twine. "Gender-Fluid Geek Girls: Negotiating Inequality Regimes in the Tech Industry." _Gender and Society_, 31(1), (2017). 28–50. DOI: 10.1177/0891243216680590
 
 Joseph Reagle. “Free as in sexist?” Free culture and the gender gap." _First Monday_. 18(1), 2013. https://doi.org/10.5210/fm.v18i1.4291 
@@ -71,7 +71,7 @@ https://thenewstack.io/open-source-communities-need-more-safe-spaces-and-codes-o
  
 Vandana Singh, Brice Bongiovanni, William Brandon. "Codes of Conduct in Open Source Software — for warm and fuzzy feelings or equality in community?." _Software Quality Journal_ (2021). https://doi.org/10.1007/s11219-020-09543-w 
 
-###Hackerspaces
+### Hackerspaces
 
 http://melchua.com/blog/2015/04/28/on-the-diversity-readiness-of-stem-environments-its-almost-as-if-i-could-only-enter-the-makerspace-as-a-janitor/
 
@@ -82,7 +82,7 @@ George Dafermos and Johan Soderberg. "The hacker movement as a continuation of l
 
 Sophie Toupin. "Feminist Hackerspaces: The Synthesis of Feminist and Hacker Cultures." _Journal of Peer Production_. Issue 5.
 
-###Pinyon Jays
+### Pinyon Jays
 Thomas Kuhn. _The Structure of Scientific Revolutions_. University of Chicago Press, 1996.
 
 Daniel Kahneman. _Thinking Fast and Slow_. Farrar, Straus and Giroux. 1st ed. (2011)
@@ -92,7 +92,7 @@ Marcy F. Lawton, William R. Garstka, J. Craig Hanks. "The Mask of Theory and the
 
 Olsen's Standard Book of British Birds, expurgated version (no gannet)
 
-###Politics and Culture of Tech
+### Politics and Culture of Tech
 David Golumbia on Cyberlibertarianism: https://www.jacobinmag.com/2013/12/cyberlibertarians-digital-deletion-of-the-left/
 
 Leo Marx. "Technology: The Emergence of a Hazardous Concept." _Technology and Culture_ 51 no 3 (July 2010). 561-577.
@@ -106,7 +106,7 @@ Fred Turner. _From Cyberculture to Counterculture: Stewart Brand, The Whole Eart
 
 Langdon Winner, “Cyberlibertarian Myths and the Prospects for Community” http://homepages.rpi.edu/~winner/cyberlib2.html
 
-###Generative Justice and Other Possibilities
+### Generative Justice and Other Possibilities
 
 In general:
 https://www.researchgate.net/project/generative-justice
